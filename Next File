@@ -1,0 +1,16 @@
+# Data Science Basics
+
+This repository contains basic data science projects using Python.
+
+## Topics Covered
+- Data Cleaning  
+- Data Visualization  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning (Linear Regression, Decision Trees, etc.)  
+- Pandas, NumPy, Matplotlib, Seaborn  
+
+## How to Run  
+1. Install Python (if not installed): [Download here](https://www.python.org/downloads/)  
+2. Install required libraries:  
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn
